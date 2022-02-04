@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+    background:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/avengers-infinity-war-1553438735.jpg?crop=1xw:0.9904761904761905xh;center,top&resize=1200:*);
+    color:white;
+    
+    
+}
+
+img {
+    width: 200px;
+    border: 3px inset green;
+}
